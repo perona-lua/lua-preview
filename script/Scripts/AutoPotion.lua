@@ -4,7 +4,7 @@ function auto_potion.init()
     if Map.getMapId() == Enums.MapIndex.LORENCIA then
         
         if not Map.isSafeZone() then
-            Player.use_potion("q")
+            Player.usePotion("q")
         end
     end
 end
