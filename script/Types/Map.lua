@@ -1,5 +1,5 @@
 --- @meta
---- @class Map # Funções gerais do mapa
+--- @class Map : userdata # Funções gerais do mapa
 Map = {}
 
 --- @return MapIndex # Retorna o Index do mapa

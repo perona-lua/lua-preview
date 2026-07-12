@@ -1,5 +1,5 @@
 --- @meta
---- @class Player # Funções gerais do jogador
+--- @class Player : userdata # Funções gerais do jogador
 Player = {}
 
 --- @return string
