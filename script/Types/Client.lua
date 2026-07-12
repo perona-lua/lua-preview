@@ -1,5 +1,5 @@
 --- @meta
---- @class Client # Funções gerais do Client
+--- @class Client : userdata # Funções gerais do Client
 Client = {}
 
 --- @param value integer - Valor do zoom
